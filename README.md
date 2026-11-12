@@ -1,4 +1,4 @@
-#ResumeAI – AI-Based Resume Screening and Job Matching System
+ResumeAI – AI-Based Resume Screening and Job Matching System
 
 📌 About the Project
 
